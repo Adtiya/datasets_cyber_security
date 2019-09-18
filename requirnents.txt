@@ -13,7 +13,9 @@ condition such as material has metallic or non metalic properties.
 3. Be able to send all parametrs determine from above two funcnality to machine learning algorithm
  to determine the type of material.
 4. Return data to the system to  perform the task of actuator which trasfer the material to its specific bin.
-5. device help shops to decrease the waste management budget.
+5. device help shops to decrease the waste management budget only focus on their business
 6. it help to increase the recycing percentage of cups and make cleaner environment
 7. User are now free from knowing the type of cup material,device sort automatically for them
+8. Data generated from device help developer to develop the more accurate system
+9. Collection service company are know free from sorting the cups
 
