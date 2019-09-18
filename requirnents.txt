@@ -1,0 +1,13 @@
+Requirments
+
+To provide a comprehensive picture of the subject gait many parameters are required to be 
+measured.Due to the time and budget,only certain parameters will be measured.The device must
+be:
+1. Be able to capture the conductive and inductive proximity data in an unobtrusive and reliable manner to get
+meaningful data,This data should able to allow the algorithm to reliably determine the specific 
+condition such as whether material has metallic or non metalic properties.
+2. be able to capture image data of material  in an unobtrusive and reliable manner to ge meaningful data
+.This should able to allow the computer vision algorithm to reliably determine the specific parameters of image.
+3. Be able to send all parametrs determine from above two funcnality to machine learning algorithm
+ to determine the type of material.
+4. Return data to the system to  perform the task of actuator which trasfer the material to its specific bin.
